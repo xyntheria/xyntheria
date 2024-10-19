@@ -1,4 +1,8 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/aadc0f3a-0b83-49e2-8aef-ee320b08f619)
+
+# About me
+
+- [itch.io](https://xynth.itch.io)
 
 <!--
 **xyntheria/xyntheria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
