@@ -41,4 +41,4 @@ Hello! xynth here, a hobbyist game developer focused on short pixel art games. C
 </table>
 
 ## Contact
-- 📫 [Discord](https://discordapp.com/users/382560180749074432)
+- 📫 **Discord** @xynth7
