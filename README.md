@@ -12,16 +12,6 @@ Hello! xynth here, a hobbyist game developer focused on short pixel art games. C
 
 # Featured Projects
 
-<style>
-  .project-image {
-    transition: transform 0.3s ease;
-  }
-
-  .project-image:hover {
-    transform: scale(0.9);
-  }
-</style>
-
 <table>
 <tr>
 <td width="50%">
