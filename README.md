@@ -14,19 +14,23 @@ Hello! xynth here, a hobbyist game developer focused on short pixel art games. C
 <tr>
 <td width="50%">
 <h3 align="center">Scala</h3>
+<br>
 <div align="center">
 <a href="https://xynth.itch.io/scala" target="_blank">
 <img src="https://img.itch.zone/aW1nLzE3Mzk4MjY4LnBuZw==/315x250%23c/yHgXO6.png" width="315" height="250" alt="Scala" style="max-width: 100%; height: auto;">
 </a>
+<br>
 <p>Climb a mystical mountain to traverse the dimensional rift.</p>
 </div>
 </td>
 <td width="50%">
 <h3 align="center">Runes</h3>
+<br>
 <div align="center">                                       
 <a href="https://xynth.itch.io/runes" target="_blank">
 <img src="https://i.imgur.com/97colYQ.png" width="auto" height="250" alt="Runes" style="max-width: 100%; height: auto;">
 </a>
+<br>
 <p>A Hypixel Skyblock rune simulator for Minecraft 1.8.9.</p>
 </div>                                                             
 </td>
