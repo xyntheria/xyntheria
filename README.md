@@ -10,9 +10,8 @@ Hello! xynth here, a hobbyist game developer focused on short pixel art games. C
 
 ## Featured Projects
 
-| Project 1 | Project 2 |
-|-----------|-----------|
 | ![Scala](https://img.itch.zone/aW1nLzE3Mzk4MjY4LnBuZw==/315x250%23c/yHgXO6.png) **Scala** <br> Climb a mystical mountain to traverse the dimensional rift. | ![Runes](https://i.imgur.com/97colYQ.png) **Runes** <br> A Hypixel Skyblock rune simulator for Minecraft 1.8.9. |
+| --- | --- |
 
 ## Contact
 - 📫 [Discord](https://discordapp.com/users/382560180749074432)
