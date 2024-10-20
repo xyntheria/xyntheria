@@ -25,7 +25,7 @@ Hello! xynth here, a hobbyist game developer focused on short pixel art games. C
 <h3 align="center">Runes</h3>
 <div align="center">                                       
 <a href="https://xynth.itch.io/runes" target="_blank">
-<img src="https://i.imgur.com/97colYQ.png" width="315" height="auto" alt="Runes" style="max-width: 100%; height: auto;">
+<img src="https://i.imgur.com/97colYQ.png" width="auto" height="250" alt="Runes" style="max-width: 100%; height: auto;">
 </a>
 <p>A Hypixel Skyblock rune simulator for Minecraft 1.8.9.</p>
 </div>                                                             
