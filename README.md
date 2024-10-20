@@ -10,8 +10,36 @@ Hello! xynth here, a hobbyist game developer focused on short pixel art games. C
 
 ## Featured Projects
 
-| ![Scala](https://img.itch.zone/aW1nLzE3Mzk4MjY4LnBuZw==/315x250%23c/yHgXO6.png) **Scala** <br> Climb a mystical mountain to traverse the dimensional rift. | ![Runes](https://i.imgur.com/97colYQ.png) **Runes** <br> A Hypixel Skyblock rune simulator for Minecraft 1.8.9. |
-| --- | --- |
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Scala</h3>
+<div align="center">
+<a href="https://xynth.itch.io/scala" target="_blank"><img src="https://img.itch.zone/aW1nLzE3Mzk4MjY4LnBuZw==/315x250%23c/yHgXO6.png" width="400" alt="Scala"></a>
+<p>
+<a href="https://xynth.itch.io/scala" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Climb a mystical mountain to traverse the dimensional rift.</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">Runes</h3>
+<div align="center">                                       
+<a href="https://xynth.itch.io/runes" target="_blank"><img src="https://i.imgur.com/97colYQ.png" width="400" alt="Runes"></a>
+<br>
+<p>
+<a href="https://xynth.itch.io/runes" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>A Hypixel Skyblock rune simulator for Minecraft 1.8.9.</p>
+</div>                                                             
+</td>
+</tr>
+</table>
 
 ## Contact
 - 📫 [Discord](https://discordapp.com/users/382560180749074432)
