@@ -8,7 +8,9 @@ Hello! xynth here, a hobbyist game developer focused on short pixel art games. C
 - 🌟 **Current Projects**: I'm working on several small prototypes that I hope to finish someday.
 - 🎮 **Games on [itch.io](https://xynth.itch.io)**: Feel free to try out my latest projects! Most of them were made for game jams.
 
-## Featured Projects
+<br>
+
+# Featured Projects
 
 <table>
 <tr>
@@ -39,6 +41,8 @@ Hello! xynth here, a hobbyist game developer focused on short pixel art games. C
 </td>
 </tr>
 </table>
+
+<br>
 
 ## Contact
 - 📫 **Discord** @xynth7
