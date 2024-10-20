@@ -18,7 +18,6 @@ Hello! xynth here, a hobbyist game developer focused on short pixel art games. C
 <a href="https://xynth.itch.io/scala" target="_blank"><img src="https://img.itch.zone/aW1nLzE3Mzk4MjY4LnBuZw==/315x250%23c/yHgXO6.png" width="400" alt="Scala"></a>
 <p>
 <a href="https://xynth.itch.io/scala" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>Climb a mystical mountain to traverse the dimensional rift.</p>
@@ -32,7 +31,6 @@ Hello! xynth here, a hobbyist game developer focused on short pixel art games. C
 <br>
 <p>
 <a href="https://xynth.itch.io/runes" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>A Hypixel Skyblock rune simulator for Minecraft 1.8.9.</p>
