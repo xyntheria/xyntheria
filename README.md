@@ -29,7 +29,7 @@ Hello! xynth here, a hobbyist game developer focused on short pixel art games. C
 <h3 align="center">Runes</h3>
 <br>
 <div align="center">                                       
-<a href="https://xynth.itch.io/runes" target="_blank">
+<a href="https://www.chattriggers.com/modules/v/Runes" target="_blank">
 <img src="https://i.imgur.com/97colYQ.png" width="auto" height="250" alt="Runes" style="max-width: 100%; height: auto;">
 </a>
 <br>
